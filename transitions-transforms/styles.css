@@ -1,0 +1,27 @@
+body {
+  background-color: seagreen;
+  position: relative;
+  margin: 0;
+}
+
+
+.container{
+  display: block;
+  position: relative;
+  background-color: rgb(149, 206, 144);
+  width: 90%;
+  margin: 0 auto;
+  padding: 2%;
+  text-align: center;
+  height: 1000px;
+}
+.boxes{
+  display: inline-block;
+  position: sticky;
+  background-color: seagreen;
+  padding: 1%;
+  color: white;
+  width: 31%;
+  text-align: center;
+  top: 0;
+}
